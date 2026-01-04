@@ -1,0 +1,245 @@
+    .title_pf{
+        line-height: 0.1;
+        font-size: 30px;
+        color: white;
+        text-align: center;
+        font-family: "Sekuya", system-ui;
+        font-weight: 400;
+        font-style: normal;
+        position: relative;
+        top: 60px;
+    }
+
+    .img{
+        width: 250px;
+        position: relative;
+        top: -60px;
+        left: 50px;
+        border-radius: 50px; 
+    }
+    .name_title{    
+        color: rgb(248, 245, 245);
+        font-size: 30px;
+        font-family: "Sekuya", system-ui;
+        font-weight: 400;
+        font-style: normal;
+        position: relative;
+        top: -585px;
+        left: 1170px;
+        
+    }
+    .name_info{
+        font-family: "Sekuya", system-ui;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 15px;
+        color:whitesmoke;
+        position: relative;
+        top: -180px;
+        left: 50px;
+        
+    }
+    .aboutme_title{
+        color: rgb(249, 248, 248);
+        font-size: 30px;
+        font-family: "Sekuya", system-ui;
+        font-weight: 400;
+        font-style: normal;
+        position: relative;
+        top: -760px;
+        left: 70px;
+    }
+    .character{    
+        color: rgb(248, 245, 245);
+        font-size: 70px;
+        font-family: "Metal Mania", system-ui;
+        font-weight: 400;
+        font-style: normal;
+        position: relative;
+        top: -670px;
+        left: 620px;
+        
+    }
+    .aboutme{
+        font-family: "Iceland", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 20px;
+        color:whitesmoke;
+        position:relative;
+        top: -720px;
+        left: 465px;
+        width:600px;
+    }
+    .infomation{
+        color:rgb(244, 244, 244);
+        background-color: rgb(52, 110, 164);
+        width:300px;
+        border-radius: 50px;
+        position: relative;
+        top: -730px;
+        left:585px;
+        padding: 15px;
+    }
+    .icon_title{
+        color: rgb(249, 248, 248);
+        font-size: 30px;
+        font-family: "Metal Mania", system-ui;
+        font-weight: 400;
+        font-style: normal;
+        position: relative;
+        top: -1100px;
+        left: 1150px;
+    }
+    .software_img{
+        width: 50px; 
+        filter:grayscale(30%);
+    }
+    #img_clion{
+        position: relative;
+        top: -1095px;
+        left: 1200px;
+    }
+    #img_pycharm{
+        position: relative;
+        top: -1095px;
+        left: 1220px;
+    }
+    #img_webstorm{
+        position: relative;
+        top: -1095px;
+        left: 1240px;
+    }
+    #img_sql{
+        position: relative;
+        top: -1025px;
+        left: 1040px;
+    }
+    #img_vsc{
+        position: relative;
+        top: -1025px;
+        left: 1060px;
+    }
+    #img_github{
+        position: relative;
+        top: -1025px;
+        left: 1080px;
+    }
+    .edu_title{
+        color: rgb(249, 248, 248);
+        font-size: 30px;
+        font-family: "Sekuya", system-ui;
+        font-weight: 400;
+        font-style: normal;
+        position: relative;
+        top: -1045px;
+        left: 1185px;
+    }
+    #uni{
+        color:white;
+        position: relative;
+        top: -1065px;
+        left: 1180px;
+        width:340px;
+        font-family: "Iceland", sans-serif;
+        font-weight: 400;   
+        font-style: normal;
+        font-size: 18px;
+        text-align: left;
+    }
+    .uni_icon{
+        width:130px;
+        position: relative;
+        top: -1500px;
+        left: 1240px;
+    }
+    .certi_title{
+        color: white;
+        font-size: 40px;
+        font-family: "Metal Mania", system-ui;
+        font-weight: 400;
+        font-style: normal;
+        position: relative;
+        top:-1250px;
+        left: 1220px;
+    }
+    .certi_list{
+        color:whitesmoke;
+        font-family: "Iceland", sans-serif;
+        font-weight: 400;   
+        font-style: normal;
+        font-size: 18px;
+        position: relative;
+        top:-1295px;
+        left: 1155px;
+        width:400px;
+    }
+    .mail_icon{
+        width:35px;
+        position: relative;
+        top: -1280px;
+        left: 30px;
+    }
+    .mail{
+        color:#1b10e1;
+        font-family: "Iceland", sans-serif;
+        font-weight: 400;   
+        font-style: normal;
+        font-size: 25px;
+        position: relative;
+        top:-1295px;
+        left: 30px;
+    }
+    .phone_icon{
+        width:35px;
+        position: relative;
+        top: -1283px;
+        left: 135px;
+    }
+    .phone{
+        color:#1b10e1;
+        font-family: "Iceland", sans-serif;
+        font-weight: 400;   
+        font-style: normal;
+        font-size: 25px;
+        position: relative;
+        top:-1297px;
+        left: 140px;
+    }
+    .fb_icon{
+        width:35px;
+        position: relative;
+        top: -1287px;
+        left: 320px;
+        filter:grayscale(50%)
+    }
+    .fb{
+        color:#1b10e1;
+        font-family: "Iceland", sans-serif;
+        font-weight: 400;   
+        font-style: normal;
+        font-size: 25px;
+        position: relative;
+        top:-1300px;
+        left:325px;
+    }
+    .ig_icon{
+        width:35px;
+        position: relative;
+        top: -1290px;
+        left: 500px;
+        filter:grayscale(50%)
+    }
+    .ig{
+        color:#1b10e1;
+        font-family: "Iceland", sans-serif;
+        font-weight: 400;   
+        font-style: normal;
+        font-size: 25px;
+        position: relative;
+        top:-1300px;
+        left:505px;
+    }
+    body {
+    overflow: hidden; /* Prevent scrolling */
+    }
